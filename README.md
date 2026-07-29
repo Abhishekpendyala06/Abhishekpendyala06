@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer · Agentic AI Enthusiast · Building the Next Layer of Intelligence</h3>
 
 <p align="center">
-  <b>B.Tech Computer Science (AI & ML) · CBIT Hyderabad · CGPA 8.80</b>
+  <b>B.Tech Computer Science (AI & ML) · CBIT Hyderabad · CGPA 9.00</b>
 </p>
 
 <p align="center">
