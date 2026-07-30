@@ -110,23 +110,23 @@ Whether I am developing enterprise AI copilots, multilingual assistants or auton
 
 ### AI Software Engineering Intern — Citta AI *(3 Months)*
 
-As an **AI Software Engineering Intern**, I led the end-to-end development of production-grade AI solutions by transforming domain-specific datasets into scalable intelligent systems. My responsibilities included data engineering, model development and optimization, RAG architecture, backend engineering, frontend integration, deployment, and technical ownership of key AI modules while collaborating with cross-functional teams to deliver real-world AI products.
+As an **AI Software Engineering Intern**, I led the end-to-end development of production-grade AI solutions by transforming domain-specific datasets into scalable intelligent systems. My responsibilities included data engineering, model development and optimization, RAG architecture, backend engineering, frontend integration, deployment & technical ownership of key AI modules while collaborating with cross-functional teams to deliver real-world AI products.
 
 #### HR Policy Assistant
 
 * Led the development of an enterprise AI copilot by designing a production-ready RAG architecture for intelligent HR policy understanding across **16 role-specific policy documents**.
-* Built the complete AI pipeline, including data preprocessing, embedding generation, semantic retrieval, backend APIs, and a React-based user interface, delivering accurate, citation-backed enterprise responses.
+* Built the complete AI pipeline, including data preprocessing, embedding generation, semantic retrieval, backend APIs, Model Training, Deployment, Testing & a React-based user interface, delivering accurate, citation-backed enterprise responses.
 
 #### Farmer Assistant
 
-* Led the development of a multilingual AI platform by training and optimizing machine learning models on agricultural datasets for crop disease detection, soil health analysis, and intelligent farming recommendations.
-* Integrated real-time weather intelligence, market price analytics, and AI-driven decision support into a scalable production-ready application, delivering the complete solution within an accelerated development timeline.
+* Led the development of a multilingual AI platform by training and optimizing machine learning models on agricultural datasets for crop disease detection, soil health analysis & intelligent farming recommendations.
+* Integrated real-time weather intelligence, market price analytics & AI-driven decision support into a scalable production-ready application, delivering the complete solution within an accelerated development timeline.
 
 #### Core Contributions
 
-* Owned the complete AI development lifecycle—from data preprocessing and model development to deployment and production integration.
-* Designed scalable AI systems using Retrieval-Augmented Generation (RAG), semantic search, vector databases, multimodal AI, FastAPI, React, and modern LLM engineering practices.
-* Collaborated with product and engineering teams, drove technical implementation, and delivered reliable AI solutions focused on scalability, performance, and real-world impact.
+* Proudly owned the complete Artificial Intelligence development lifecycle from data preprocessing and model development to deployment and production integration.
+* Designed scalable Artificial Intelligent systems using Retrieval Augmented Generation (RAG), semantic search, vector databases, multimodal AI, FastAPI, React & modern LLM (Large Language Models) engineering practices.
+* Collaborated with product and engineering teams, drove technical implementation & delivered reliable Artificial Intelligent solutions focused on scalability, performance & real world impact.
 
 
 ---
