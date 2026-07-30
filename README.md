@@ -106,8 +106,6 @@ Whether I am developing enterprise AI copilots, multilingual assistants or auton
 
 ## Experience
 
-## Experience
-
 ### AI Software Engineering Intern — Citta AI ( By Fixity Group of Technologies ) (3 Months)
 
 As an **AI Software Engineering Intern**, I led the end-to-end development of production-grade AI solutions by transforming domain-specific datasets into scalable intelligent systems. My responsibilities included data engineering, model development and optimization, RAG architecture, backend engineering, frontend integration, deployment & technical ownership of key AI modules while collaborating with cross-functional teams to deliver real-world AI products.
