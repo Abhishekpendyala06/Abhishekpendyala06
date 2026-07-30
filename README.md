@@ -15,6 +15,9 @@ AI/ML Engineer · Agentic AI · Autonomous Systems · Multi-Agent Systems · LLM
 <a href="https://github.com/Abhishekpendyala06">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/abhishek-pendyala-8a0ba7321/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
@@ -126,7 +129,6 @@ As an **AI Software Engineering Intern**, I led the end-to-end development of pr
 * Designed scalable Artificial Intelligent systems using Retrieval Augmented Generation (RAG), semantic search, vector databases, multimodal AI, FastAPI, React & modern LLM (Large Language Models) engineering practices.
 * Collaborated with product and engineering teams, drove technical implementation & delivered reliable Artificial Intelligent solutions focused on scalability, performance & real world impact.
 
-
 ---
 
 ## Certifications
@@ -157,6 +159,9 @@ As an **AI Software Engineering Intern**, I led the end-to-end development of pr
 </a>
 <a href="https://github.com/Abhishekpendyala06">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhishek-pendyala-8a0ba7321/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
