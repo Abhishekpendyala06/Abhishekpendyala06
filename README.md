@@ -25,15 +25,15 @@ AI/ML Engineer · Agentic AI · Autonomous Systems · Multi-Agent Systems · LLM
 
 ## Engineering Intelligent Systems That Reason and Act
 
-I am an AI/ML engineer focused on designing intelligent systems that reason, retrieve, plan, and execute rather than simply generate responses. My work centers on Agentic AI, Large Language Models, Retrieval-Augmented Generation (RAG), the Model Context Protocol (MCP), tool-calling, and autonomous multi-agent systems built to solve real-world problems.
+I am an AI/ML engineer focused on designing intelligent systems that can reason, retrieve, plan and execute instead of just generating responses. My work centers on Agentic AI, Large Language Models, Retrieval-Augmented Generation (RAG), the Model Context Protocol (MCP), tool-calling & autonomous multi-agent systems meant to tackle real-world problems.
 
-I build complete AI products — from backend intelligence and retrieval pipelines to the frontend experiences users actually interact with. To me, an AI system is not complete until it is scalable, production-ready, and delivers measurable value.
+I create complete AI products from backend intelligence and retrieval pipelines to the frontend experiences that users interact with. To me, an AI system is not finished until it is scalable, ready for production & provides measurable value.
 
-My engineering philosophy is straightforward:
+My engineering philosophy is simple:
 
 > Understand the problem deeply. Design reliable systems. Build elegant solutions.
 
-Whether developing enterprise AI copilots, multilingual assistants, or autonomous AI workflows, I combine sound software engineering practices with current AI research to build systems that are robust, explainable, and practical.
+Whether I am developing enterprise AI copilots, multilingual assistants or autonomous AI workflows I use solid software engineering practices along with current AI research to create systems that are robust, explainable and practical.
 
 ---
 
