@@ -144,20 +144,6 @@ Whether developing enterprise AI copilots, multilingual assistants, or autonomou
 
 ---
 
-## Currently Exploring
-
-- Agentic AI Architectures
-- AI Infrastructure
-- Autonomous Agents
-- Multi-Agent Collaboration
-- Advanced Retrieval Systems
-- MCP Ecosystem
-- AI Evaluation
-- LLM Optimization
-- Open Source AI
-
----
-
 ## Connect
 
 <p align="center">
